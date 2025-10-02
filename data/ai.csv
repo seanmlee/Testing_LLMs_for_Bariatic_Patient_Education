@@ -1,0 +1,481 @@
+trial,question,prompt_type,model,model_type,readability_score,outcome
+1,1,a,GPT 4o,general,34.2,2
+2,1,a,GPT 4o,general,35.1,2
+1,1,b,GPT 4o,general,41.2,2
+2,1,b,GPT 4o,general,32.1,2
+1,1,c,GPT 4o,general,61.8,2
+2,1,c,GPT 4o,general,45.9,2
+1,1,d,GPT 4o,general,31.1,1
+2,1,d,GPT 4o,general,28.9,2
+1,2,a,GPT 4o,general,25.3,2
+2,2,a,GPT 4o,general,26.3,2
+1,2,b,GPT 4o,general,31.5,2
+2,2,b,GPT 4o,general,39.8,2
+1,2,c,GPT 4o,general,44.4,2
+2,2,c,GPT 4o,general,53.1,2
+1,2,d,GPT 4o,general,31.3,2
+2,2,d,GPT 4o,general,40.8,1
+1,3,a,GPT 4o,general,24.4,2
+2,3,a,GPT 4o,general,23.5,1
+1,3,b,GPT 4o,general,41.1,2
+2,3,b,GPT 4o,general,50.2,2
+1,3,c,GPT 4o,general,44.2,2
+2,3,c,GPT 4o,general,52.1,1
+1,3,d,GPT 4o,general,20.2,2
+2,3,d,GPT 4o,general,21.9,2
+1,4,a,GPT 4o,general,28.1,2
+2,4,a,GPT 4o,general,25.8,2
+1,4,b,GPT 4o,general,33.2,2
+2,4,b,GPT 4o,general,32.6,2
+1,4,c,GPT 4o,general,62.6,1
+2,4,c,GPT 4o,general,54.4,1
+1,4,d,GPT 4o,general,30.7,1
+2,4,d,GPT 4o,general,21.3,1
+1,5,a,GPT 4o,general,19,1
+2,5,a,GPT 4o,general,25,1
+1,5,b,GPT 4o,general,41.9,2
+2,5,b,GPT 4o,general,30.8,2
+1,5,c,GPT 4o,general,52.6,1
+2,5,c,GPT 4o,general,40.9,1
+1,5,d,GPT 4o,general,21.7,1
+2,5,d,GPT 4o,general,22.1,1
+1,6,a,GPT 4o,general,16.8,1
+2,6,a,GPT 4o,general,20.1,2
+1,6,b,GPT 4o,general,36.4,1
+2,6,b,GPT 4o,general,43.9,1
+1,6,c,GPT 4o,general,37.1,1
+2,6,c,GPT 4o,general,46.1,1
+1,6,d,GPT 4o,general,46.4,1
+2,6,d,GPT 4o,general,47.1,1
+1,7,a,GPT 4o,general,20.9,2
+2,7,a,GPT 4o,general,10.5,2
+1,7,b,GPT 4o,general,40.8,2
+2,7,b,GPT 4o,general,32.3,2
+1,7,c,GPT 4o,general,22.1,0
+2,7,c,GPT 4o,general,51.5,0
+1,7,d,GPT 4o,general,19,1
+2,7,d,GPT 4o,general,38.9,1
+1,8,a,GPT 4o,general,18.5,1
+2,8,a,GPT 4o,general,19.7,1
+1,8,b,GPT 4o,general,51.1,2
+2,8,b,GPT 4o,general,30.4,2
+1,8,c,GPT 4o,general,21.7,1
+2,8,c,GPT 4o,general,55,1
+1,8,d,GPT 4o,general,11.9,2
+2,8,d,GPT 4o,general,23.1,1
+1,9,a,GPT 4o,general,15,2
+2,9,a,GPT 4o,general,0,2
+1,9,b,GPT 4o,general,26.6,2
+2,9,b,GPT 4o,general,11.6,2
+1,9,c,GPT 4o,general,4.9,2
+2,9,c,GPT 4o,general,21.5,2
+1,9,d,GPT 4o,general,33.2,1
+2,9,d,GPT 4o,general,4.9,1
+1,10,a,GPT 4o,general,31.4,2
+2,10,a,GPT 4o,general,22.8,2
+1,10,b,GPT 4o,general,31.3,2
+2,10,b,GPT 4o,general,32.3,2
+1,10,c,GPT 4o,general,39.5,2
+2,10,c,GPT 4o,general,52.9,2
+1,10,d,GPT 4o,general,38.5,1
+2,10,d,GPT 4o,general,19.8,2
+1,11,a,GPT 4o,general,24.7,2
+2,11,a,GPT 4o,general,39.8,2
+1,11,b,GPT 4o,general,40.1,2
+2,11,b,GPT 4o,general,33.6,2
+1,11,c,GPT 4o,general,40.6,1
+2,11,c,GPT 4o,general,57.5,1
+1,11,d,GPT 4o,general,31.4,1
+2,11,d,GPT 4o,general,30.4,1
+1,12,a,GPT 4o,general,24.6,2
+2,12,a,GPT 4o,general,34.2,2
+1,12,b,GPT 4o,general,42.8,2
+2,12,b,GPT 4o,general,24.5,2
+1,12,c,GPT 4o,general,42.8,1
+2,12,c,GPT 4o,general,41.6,1
+1,12,d,GPT 4o,general,30,1
+2,12,d,GPT 4o,general,40.5,1
+1,1,a,DocsGPT,medicine,23.3,2
+2,1,a,DocsGPT,medicine,27.4,2
+1,1,b,DocsGPT,medicine,33.2,2
+2,1,b,DocsGPT,medicine,35,2
+1,1,c,DocsGPT,medicine,50.2,2
+2,1,c,DocsGPT,medicine,51,2
+1,1,d,DocsGPT,medicine,31.1,2
+2,1,d,DocsGPT,medicine,39.6,2
+1,2,a,DocsGPT,medicine,31.6,2
+2,2,a,DocsGPT,medicine,25.5,2
+1,2,b,DocsGPT,medicine,20,2
+2,2,b,DocsGPT,medicine,44.6,2
+1,2,c,DocsGPT,medicine,59.3,2
+2,2,c,DocsGPT,medicine,53.4,2
+1,2,d,DocsGPT,medicine,40.7,2
+2,2,d,DocsGPT,medicine,36.8,2
+1,3,a,DocsGPT,medicine,30.1,2
+2,3,a,DocsGPT,medicine,25.3,2
+1,3,b,DocsGPT,medicine,46.3,2
+2,3,b,DocsGPT,medicine,46.5,2
+1,3,c,DocsGPT,medicine,51.9,1
+2,3,c,DocsGPT,medicine,64.2,1
+1,3,d,DocsGPT,medicine,22,1
+2,3,d,DocsGPT,medicine,30.8,2
+1,4,a,DocsGPT,medicine,17.7,2
+2,4,a,DocsGPT,medicine,31.5,2
+1,4,b,DocsGPT,medicine,34.7,2
+2,4,b,DocsGPT,medicine,33.3,2
+1,4,c,DocsGPT,medicine,69.4,1
+2,4,c,DocsGPT,medicine,59.2,1
+1,4,d,DocsGPT,medicine,29.1,1
+2,4,d,DocsGPT,medicine,23.1,1
+1,5,a,DocsGPT,medicine,27.2,1
+2,5,a,DocsGPT,medicine,42.5,2
+1,5,b,DocsGPT,medicine,42.5,2
+2,5,b,DocsGPT,medicine,40.8,2
+1,5,c,DocsGPT,medicine,63.6,1
+2,5,c,DocsGPT,medicine,61.3,1
+1,5,d,DocsGPT,medicine,30.8,2
+2,5,d,DocsGPT,medicine,33.2,1
+1,6,a,DocsGPT,medicine,26.2,1
+2,6,a,DocsGPT,medicine,24.9,1
+1,6,b,DocsGPT,medicine,23.5,1
+2,6,b,DocsGPT,medicine,30.9,1
+1,6,c,DocsGPT,medicine,45.1,1
+2,6,c,DocsGPT,medicine,43.7,1
+1,6,d,DocsGPT,medicine,20.8,1
+2,6,d,DocsGPT,medicine,32.3,1
+1,7,a,DocsGPT,medicine,26.3,1
+2,7,a,DocsGPT,medicine,18.5,1
+1,7,b,DocsGPT,medicine,37.8,2
+2,7,b,DocsGPT,medicine,41.8,2
+1,7,c,DocsGPT,medicine,52.9,1
+2,7,c,DocsGPT,medicine,54.5,2
+1,7,d,DocsGPT,medicine,26.1,1
+2,7,d,DocsGPT,medicine,30.7,1
+1,8,a,DocsGPT,medicine,27.6,1
+2,8,a,DocsGPT,medicine,20.1,1
+1,8,b,DocsGPT,medicine,32.6,1
+2,8,b,DocsGPT,medicine,25.4,1
+1,8,c,DocsGPT,medicine,52.5,2
+2,8,c,DocsGPT,medicine,51.1,2
+1,8,d,DocsGPT,medicine,29.7,1
+2,8,d,DocsGPT,medicine,19.6,2
+1,9,a,DocsGPT,medicine,0,2
+2,9,a,DocsGPT,medicine,3.8,2
+1,9,b,DocsGPT,medicine,19.9,2
+2,9,b,DocsGPT,medicine,26.6,0
+1,9,c,DocsGPT,medicine,38.3,2
+2,9,c,DocsGPT,medicine,24,2
+1,9,d,DocsGPT,medicine,2.3,2
+2,9,d,DocsGPT,medicine,14.7,1
+1,10,a,DocsGPT,medicine,30.6,2
+2,10,a,DocsGPT,medicine,25.5,2
+1,10,b,DocsGPT,medicine,34.4,2
+2,10,b,DocsGPT,medicine,33.4,2
+1,10,c,DocsGPT,medicine,59.8,2
+2,10,c,DocsGPT,medicine,50.6,2
+1,10,d,DocsGPT,medicine,39.5,2
+2,10,d,DocsGPT,medicine,39.6,1
+1,11,a,DocsGPT,medicine,25.9,2
+2,11,a,DocsGPT,medicine,21.2,2
+1,11,b,DocsGPT,medicine,26.8,2
+2,11,b,DocsGPT,medicine,31,2
+1,11,c,DocsGPT,medicine,57.9,2
+2,11,c,DocsGPT,medicine,57.9,2
+1,11,d,DocsGPT,medicine,44.8,2
+2,11,d,DocsGPT,medicine,40.9,2
+1,12,a,DocsGPT,medicine,48.4,2
+2,12,a,DocsGPT,medicine,23.9,2
+1,12,b,DocsGPT,medicine,40.8,2
+2,12,b,DocsGPT,medicine,44.9,2
+1,12,c,DocsGPT,medicine,42.4,2
+2,12,c,DocsGPT,medicine,50.3,2
+1,12,d,DocsGPT,medicine,40.7,2
+2,12,d,DocsGPT,medicine,45.7,2
+1,1,a,Cluade Opus,general,37.9,2
+2,1,a,Cluade Opus,general,24,2
+1,1,b,Cluade Opus,general,35.8,2
+2,1,b,Cluade Opus,general,27.9,2
+1,1,c,Cluade Opus,general,58.7,2
+2,1,c,Cluade Opus,general,60.6,2
+1,1,d,Cluade Opus,general,37.2,2
+2,1,d,Cluade Opus,general,29,2
+1,2,a,Cluade Opus,general,34.5,2
+2,2,a,Cluade Opus,general,27.4,2
+1,2,b,Cluade Opus,general,23.3,2
+2,2,b,Cluade Opus,general,27.1,2
+1,2,c,Cluade Opus,general,71.4,1
+2,2,c,Cluade Opus,general,61.8,2
+1,2,d,Cluade Opus,general,36.4,2
+2,2,d,Cluade Opus,general,37.6,2
+1,3,a,Cluade Opus,general,40.6,1
+2,3,a,Cluade Opus,general,41.1,1
+1,3,b,Cluade Opus,general,36.6,2
+2,3,b,Cluade Opus,general,36.1,2
+1,3,c,Cluade Opus,general,59.9,2
+2,3,c,Cluade Opus,general,59.8,2
+1,3,d,Cluade Opus,general,28,2
+2,3,d,Cluade Opus,general,31.8,2
+1,4,a,Cluade Opus,general,26.7,0
+2,4,a,Cluade Opus,general,24.1,1
+1,4,b,Cluade Opus,general,34.4,1
+2,4,b,Cluade Opus,general,27.3,1
+1,4,c,Cluade Opus,general,65.4,1
+2,4,c,Cluade Opus,general,69.5,1
+1,4,d,Cluade Opus,general,28.9,1
+2,4,d,Cluade Opus,general,29.7,1
+1,5,a,Cluade Opus,general,33.3,1
+2,5,a,Cluade Opus,general,33,1
+1,5,b,Cluade Opus,general,30.2,1
+2,5,b,Cluade Opus,general,34,1
+1,5,c,Cluade Opus,general,59.5,1
+2,5,c,Cluade Opus,general,69.1,2
+1,5,d,Cluade Opus,general,27.4,2
+2,5,d,Cluade Opus,general,21.8,2
+1,6,a,Cluade Opus,general,40.1,1
+2,6,a,Cluade Opus,general,39.6,1
+1,6,b,Cluade Opus,general,36.1,1
+2,6,b,Cluade Opus,general,29.7,1
+1,6,c,Cluade Opus,general,28,1
+2,6,c,Cluade Opus,general,36.5,1
+1,6,d,Cluade Opus,general,48.1,1
+2,6,d,Cluade Opus,general,22.5,1
+1,7,a,Cluade Opus,general,19,1
+2,7,a,Cluade Opus,general,31.6,1
+1,7,b,Cluade Opus,general,41.5,2
+2,7,b,Cluade Opus,general,48.3,2
+1,7,c,Cluade Opus,general,52.3,1
+2,7,c,Cluade Opus,general,64.5,1
+1,7,d,Cluade Opus,general,36.2,2
+2,7,d,Cluade Opus,general,29.1,2
+1,8,a,Cluade Opus,general,11.9,2
+2,8,a,Cluade Opus,general,11.1,2
+1,8,b,Cluade Opus,general,23.9,2
+2,8,b,Cluade Opus,general,24.3,2
+1,8,c,Cluade Opus,general,42,2
+2,8,c,Cluade Opus,general,51.2,2
+1,8,d,Cluade Opus,general,22.7,1
+2,8,d,Cluade Opus,general,21.4,2
+1,9,a,Cluade Opus,general,6.1,0
+2,9,a,Cluade Opus,general,17.6,0
+1,9,b,Cluade Opus,general,26.9,0
+2,9,b,Cluade Opus,general,23,0
+1,9,c,Cluade Opus,general,56.8,0
+2,9,c,Cluade Opus,general,48.1,0
+1,9,d,Cluade Opus,general,29.3,0
+2,9,d,Cluade Opus,general,30.2,0
+1,10,a,Cluade Opus,general,27.9,2
+2,10,a,Cluade Opus,general,25.9,2
+1,10,b,Cluade Opus,general,40.6,2
+2,10,b,Cluade Opus,general,40.3,2
+1,10,c,Cluade Opus,general,56.1,2
+2,10,c,Cluade Opus,general,49.2,2
+1,10,d,Cluade Opus,general,40.2,2
+2,10,d,Cluade Opus,general,37.5,1
+1,11,a,Cluade Opus,general,25.8,2
+2,11,a,Cluade Opus,general,34,2
+1,11,b,Cluade Opus,general,30.2,2
+2,11,b,Cluade Opus,general,24.6,2
+1,11,c,Cluade Opus,general,67.7,2
+2,11,c,Cluade Opus,general,58.7,2
+1,11,d,Cluade Opus,general,40.4,1
+2,11,d,Cluade Opus,general,49.5,2
+1,12,a,Cluade Opus,general,24.1,2
+2,12,a,Cluade Opus,general,42.7,2
+1,12,b,Cluade Opus,general,36.2,2
+2,12,b,Cluade Opus,general,42.1,2
+1,12,c,Cluade Opus,general,51.1,2
+2,12,c,Cluade Opus,general,55,2
+1,12,d,Cluade Opus,general,28.9,1
+2,12,d,Cluade Opus,general,30.1,1
+1,1,a,DougallGPT,medicine,23.1,2
+2,1,a,DougallGPT,medicine,17.7,2
+1,1,b,DougallGPT,medicine,30.7,2
+2,1,b,DougallGPT,medicine,25.2,2
+1,1,c,DougallGPT,medicine,39.5,2
+2,1,c,DougallGPT,medicine,43.2,2
+1,1,d,DougallGPT,medicine,21.4,1
+2,1,d,DougallGPT,medicine,21.4,1
+1,2,a,DougallGPT,medicine,12.3,2
+2,2,a,DougallGPT,medicine,20.6,2
+1,2,b,DougallGPT,medicine,23.5,2
+2,2,b,DougallGPT,medicine,21,2
+1,2,c,DougallGPT,medicine,39.8,2
+2,2,c,DougallGPT,medicine,41.2,2
+1,2,d,DougallGPT,medicine,9,1
+2,2,d,DougallGPT,medicine,15.9,1
+1,3,a,DougallGPT,medicine,26.3,2
+2,3,a,DougallGPT,medicine,35.5,2
+1,3,b,DougallGPT,medicine,37.4,2
+2,3,b,DougallGPT,medicine,36.7,2
+1,3,c,DougallGPT,medicine,39.2,2
+2,3,c,DougallGPT,medicine,30.8,2
+1,3,d,DougallGPT,medicine,12.8,1
+2,3,d,DougallGPT,medicine,10,1
+1,4,a,DougallGPT,medicine,21.8,2
+2,4,a,DougallGPT,medicine,22.8,2
+1,4,b,DougallGPT,medicine,18,2
+2,4,b,DougallGPT,medicine,25.5,2
+1,4,c,DougallGPT,medicine,31,2
+2,4,c,DougallGPT,medicine,33.4,2
+1,4,d,DougallGPT,medicine,14.7,1
+2,4,d,DougallGPT,medicine,22.1,1
+1,5,a,DougallGPT,medicine,26.4,2
+2,5,a,DougallGPT,medicine,27.6,2
+1,5,b,DougallGPT,medicine,26.5,2
+2,5,b,DougallGPT,medicine,26.8,2
+1,5,c,DougallGPT,medicine,49.7,2
+2,5,c,DougallGPT,medicine,46.3,2
+1,5,d,DougallGPT,medicine,8.4,1
+2,5,d,DougallGPT,medicine,20.4,1
+1,6,a,DougallGPT,medicine,22.4,1
+2,6,a,DougallGPT,medicine,14.2,1
+1,6,b,DougallGPT,medicine,27.7,2
+2,6,b,DougallGPT,medicine,27.3,2
+1,6,c,DougallGPT,medicine,31.1,2
+2,6,c,DougallGPT,medicine,32.2,2
+1,6,d,DougallGPT,medicine,34.3,1
+2,6,d,DougallGPT,medicine,24.8,1
+1,7,a,DougallGPT,medicine,23.5,2
+2,7,a,DougallGPT,medicine,19,2
+1,7,b,DougallGPT,medicine,27.8,2
+2,7,b,DougallGPT,medicine,35.7,2
+1,7,c,DougallGPT,medicine,45.3,1
+2,7,c,DougallGPT,medicine,39.9,1
+1,7,d,DougallGPT,medicine,29.8,1
+2,7,d,DougallGPT,medicine,24.5,1
+1,8,a,DougallGPT,medicine,6.7,2
+2,8,a,DougallGPT,medicine,10.1,2
+1,8,b,DougallGPT,medicine,0,2
+2,8,b,DougallGPT,medicine,18,2
+1,8,c,DougallGPT,medicine,6.3,2
+2,8,c,DougallGPT,medicine,19.1,2
+1,8,d,DougallGPT,medicine,17,1
+2,8,d,DougallGPT,medicine,0,1
+1,9,a,DougallGPT,medicine,1,2
+2,9,a,DougallGPT,medicine,1.6,2
+1,9,b,DougallGPT,medicine,0,2
+2,9,b,DougallGPT,medicine,0,2
+1,9,c,DougallGPT,medicine,0,2
+2,9,c,DougallGPT,medicine,0,2
+1,9,d,DougallGPT,medicine,0.2,1
+2,9,d,DougallGPT,medicine,4.9,1
+1,10,a,DougallGPT,medicine,3.6,2
+2,10,a,DougallGPT,medicine,28.2,2
+1,10,b,DougallGPT,medicine,29.7,2
+2,10,b,DougallGPT,medicine,37.4,2
+1,10,c,DougallGPT,medicine,36.8,2
+2,10,c,DougallGPT,medicine,29.4,2
+1,10,d,DougallGPT,medicine,24.5,1
+2,10,d,DougallGPT,medicine,25.5,1
+1,11,a,DougallGPT,medicine,38.4,2
+2,11,a,DougallGPT,medicine,25.8,2
+1,11,b,DougallGPT,medicine,31.2,2
+2,11,b,DougallGPT,medicine,24.8,2
+1,11,c,DougallGPT,medicine,36.6,2
+2,11,c,DougallGPT,medicine,36.6,2
+1,11,d,DougallGPT,medicine,20.3,1
+2,11,d,DougallGPT,medicine,18.7,1
+1,12,a,DougallGPT,medicine,27.1,2
+2,12,a,DougallGPT,medicine,29.1,2
+1,12,b,DougallGPT,medicine,29.9,2
+2,12,b,DougallGPT,medicine,28.5,2
+1,12,c,DougallGPT,medicine,51.7,2
+2,12,c,DougallGPT,medicine,51.7,2
+1,12,d,DougallGPT,medicine,28.8,1
+2,12,d,DougallGPT,medicine,18.1,1
+1,1,a,Gemini,general,34.4,2
+2,1,a,Gemini,general,34.3,2
+1,1,b,Gemini,general,34.6,2
+2,1,b,Gemini,general,25,2
+1,1,c,Gemini,general,42.4,1
+2,1,c,Gemini,general,45.7,1
+1,1,d,Gemini,general,10.8,1
+2,1,d,Gemini,general,12.4,1
+1,2,a,Gemini,general,27,2
+2,2,a,Gemini,general,32.1,2
+1,2,b,Gemini,general,31.9,2
+2,2,b,Gemini,general,28.4,2
+1,2,c,Gemini,general,35,2
+2,2,c,Gemini,general,43.7,1
+1,2,d,Gemini,general,37.1,2
+2,2,d,Gemini,general,32.5,1
+1,3,a,Gemini,general,32.4,1
+2,3,a,Gemini,general,24.1,1
+1,3,b,Gemini,general,40.5,1
+2,3,b,Gemini,general,53.9,1
+1,3,c,Gemini,general,51.5,1
+2,3,c,Gemini,general,72.5,1
+1,3,d,Gemini,general,25.2,1
+2,3,d,Gemini,general,28.8,1
+1,4,a,Gemini,general,40.2,0
+2,4,a,Gemini,general,19.9,1
+1,4,b,Gemini,general,31.5,1
+2,4,b,Gemini,general,39,1
+1,4,c,Gemini,general,61.8,1
+2,4,c,Gemini,general,60,1
+1,4,d,Gemini,general,27.5,1
+2,4,d,Gemini,general,17.7,1
+1,5,a,Gemini,general,39.9,1
+2,5,a,Gemini,general,34.3,1
+1,5,b,Gemini,general,33.6,1
+2,5,b,Gemini,general,41.4,1
+1,5,c,Gemini,general,78.8,1
+2,5,c,Gemini,general,56.5,1
+1,5,d,Gemini,general,44.7,1
+2,5,d,Gemini,general,28.1,1
+1,6,a,Gemini,general,15.1,1
+2,6,a,Gemini,general,23.9,1
+1,6,b,Gemini,general,19.8,1
+2,6,b,Gemini,general,19.7,1
+1,6,c,Gemini,general,59.2,1
+2,6,c,Gemini,general,60,1
+1,6,d,Gemini,general,20.8,1
+2,6,d,Gemini,general,12.6,1
+1,7,a,Gemini,general,28.1,1
+2,7,a,Gemini,general,19.7,1
+1,7,b,Gemini,general,24,1
+2,7,b,Gemini,general,34.6,1
+1,7,c,Gemini,general,44.7,1
+2,7,c,Gemini,general,43.2,1
+1,7,d,Gemini,general,21.5,1
+2,7,d,Gemini,general,28.5,1
+1,8,a,Gemini,general,2,2
+2,8,a,Gemini,general,11,2
+1,8,b,Gemini,general,25.8,1
+2,8,b,Gemini,general,31.6,1
+1,8,c,Gemini,general,46.3,2
+2,8,c,Gemini,general,35.7,2
+1,8,d,Gemini,general,17.9,1
+2,8,d,Gemini,general,10.2,1
+1,9,a,Gemini,general,11.2,0
+2,9,a,Gemini,general,15.5,0
+1,9,b,Gemini,general,31.1,0
+2,9,b,Gemini,general,21.4,0
+1,9,c,Gemini,general,33.5,0
+2,9,c,Gemini,general,45.1,0
+1,9,d,Gemini,general,21.8,0
+2,9,d,Gemini,general,14.2,0
+1,10,a,Gemini,general,23.1,2
+2,10,a,Gemini,general,17.7,2
+1,10,b,Gemini,general,42.6,1
+2,10,b,Gemini,general,23.9,1
+1,10,c,Gemini,general,56.8,2
+2,10,c,Gemini,general,56.3,1
+1,10,d,Gemini,general,30.6,1
+2,10,d,Gemini,general,29.4,1
+1,11,a,Gemini,general,39.9,0
+2,11,a,Gemini,general,39.4,0
+1,11,b,Gemini,general,33.4,1
+2,11,b,Gemini,general,33.2,1
+1,11,c,Gemini,general,45.3,0
+2,11,c,Gemini,general,60.5,0
+1,11,d,Gemini,general,8.1,0
+2,11,d,Gemini,general,20.1,0
+1,12,a,Gemini,general,23.9,2
+2,12,a,Gemini,general,32.8,2
+1,12,b,Gemini,general,42.3,1
+2,12,b,Gemini,general,35.5,1
+1,12,c,Gemini,general,43.4,2
+2,12,c,Gemini,general,43.5,0
+1,12,d,Gemini,general,14.2,2
+2,12,d,Gemini,general,19.5,1
